@@ -24,17 +24,19 @@ b) Data visualizations
 
 a) Data Cleaning
 
-b) Data Transforms
+b) Split-out validation dataset
+
+c) Data Transforms
 
 4. Evaluate Algorithms
 
-a) Split-out validation dataset
-
-b) Spot check and compare algorithms 
+a) Spot check algorithms 
    
    - Machine learning: Linear Regression, Random Forest, and XGBoost
 
    - Deep learning: Keras Sequential neural network
+
+b) Compare algorithms
 
 5. Finalize Model
 
