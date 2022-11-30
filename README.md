@@ -1,4 +1,4 @@
-# Regression and predictive modeling of time series sales data
+# Regression and predictive modeling of Rossmann stores daily sales
 
 Rossmann is one of the largest drugstore chains in Europe with over 3,000 drug stores in 7 European countries. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. Accurate sales projection depends largely on store's unique circumstances and the timing of the prediction. 
 
