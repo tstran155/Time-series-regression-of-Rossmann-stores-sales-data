@@ -32,9 +32,9 @@ a) Split-out validation dataset
 
 b) Spot check and compare algorithms 
    
-   Machine learning: Linear Regression, Random Forest, and XGBoost
+   - Machine learning: Linear Regression, Random Forest, and XGBoost
 
-   Deep learning: Keras Sequential neural network
+   - Deep learning: Keras Sequential neural network
 
 5. Finalize Model
 
