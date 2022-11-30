@@ -9,25 +9,37 @@ https://www.kaggle.com/competitions/rossmann-store-sales/data
 The structure of this Jupyter Notebook is as follows:
 
 1. Prepare Problem
+
 a) Load libraries
+
 b) Load dataset
 
 2. Summarize Data
+
 a) Descriptive statistics
+
 b) Data visualizations
 
 3. Prepare Data
+
 a) Data Cleaning
+
 b) Data Transforms
 
 4. Evaluate Algorithms
+
 a) Split-out validation dataset
+
 b) Spot check and compare algorithms 
+   
    Machine learning: Linear Regression, Random Forest, and XGBoost
+
    Deep learning: Keras Sequential neural network
 
 5. Finalize Model
+
 a) Predictions on validation dataset
+
 b) Save the model for later use
 
 
