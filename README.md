@@ -38,7 +38,7 @@ b) Spot check and compare algorithms
 
 5. Finalize Model
 
-a) Predictions on validation dataset
+a) Predictions on validation dataset (best algorithm)
 
 b) Save the model for later use
 
