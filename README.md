@@ -24,7 +24,7 @@ b) Data visualizations
 
 a) Data Cleaning
 
-b) Split-out validation dataset
+b) Split data into train and test sets
 
 c) Data Transforms
 
