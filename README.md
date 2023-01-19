@@ -6,7 +6,7 @@ In this project, I built machine leaning and neural network models to regress hi
 
 https://www.kaggle.com/competitions/rossmann-store-sales/data
 
-The structure of this Jupyter Notebook is as follows:
+There are two notebooks in this repository and their structures are similar, except for Section #4 and 5.
 
 1. Prepare Problem
 
