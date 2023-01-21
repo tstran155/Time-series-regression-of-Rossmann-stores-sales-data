@@ -32,7 +32,7 @@ c) Data Transforms
 
 a) Spot check algorithms 
    
-   - Notebook 1: machine learning (Linear Regression, Random Forest, and XGBoost) and neural netowork (Keras Sequential) models
+   - Notebook 1: machine learning (Linear Regression, Random Forest, and XGBoost) and neural network (Keras Sequential) models
 
    - Notebook 2: recurrent neural network (LSTM model)
    
