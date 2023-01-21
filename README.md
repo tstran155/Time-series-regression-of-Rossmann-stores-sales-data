@@ -1,12 +1,12 @@
 # Time series regression of Rossmann stores daily sales
 
-Rossmann is one of the largest drugstore chains in Europe with over 3,000 drug stores in 7 European countries. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. Accurate sales projection depends largely on store's unique circumstances and the timing of the prediction. 
+Rossmann is one of the largest drugstore chains in Europe with over 3,000 drugstores in 7 European countries. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. Accurate sales projection depends largely on store's unique circumstances and the timing of the prediction. 
 
 In this project, I built machine leaning and neural network models to regress historical sales data and predict daily sales for 1115 Rossmann stores in Germany. The dataset used in this work can be found on Kaggle website.
 
 https://www.kaggle.com/competitions/rossmann-store-sales/data
 
-There are two notebooks in this repository and their structures are similar, except for Section #4 and 5.
+There are two notebooks in this repository and their structures are similar, except for Sections #4 and 5.
 
 1. Prepare Problem
 
@@ -32,9 +32,9 @@ c) Data Transforms
 
 a) Spot check algorithms 
    
-   - Notebook 1: machine learning (Linear Regression, Random Forest, and XGBoost) and neural netowrk (Keras Sequential) models
+   - Notebook 1: machine learning (Linear Regression, Random Forest, and XGBoost) and neural netowork (Keras Sequential) models
 
-   - Notebook 2: LSTM model
+   - Notebook 2: recurrent neural network (LSTM model)
    
 b) Compare algorithms
 
