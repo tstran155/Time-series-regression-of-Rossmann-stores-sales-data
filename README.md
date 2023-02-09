@@ -34,7 +34,7 @@ a) Spot check algorithms
    
    - Notebook 1: machine learning (Linear Regression, Random Forest, and XGBoost) and neural network (Keras Sequential) models
 
-   - Notebook 2: recurrent neural network (LSTM model)
+   - Notebook 2: recurrent neural network (Long Short-Term Memory (LSTM) model)
    
 b) Compare algorithms
 
