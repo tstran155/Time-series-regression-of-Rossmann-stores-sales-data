@@ -30,7 +30,7 @@ c) Data Transforms
 
 4. Evaluate Algorithms
 
-a) Spot check algorithms 
+a) Spot check algorithms (cross-validation)
    
    - Notebook 1: machine learning (Linear Regression, Random Forest, and XGBoost) and neural network (Keras Sequential) models
 
